@@ -94,5 +94,40 @@
 ###
 
 <div align="left">
-<a href="https://www.instagram.com/abdallah_mahmoud_alii" target="_blank">
-<img src="https://img.shields.io/static…
+  <a href="mailto:abdullah.alhumsi9@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/abdullah-alhumsi-979387284/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+### Stats
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alhumsiabdo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&custom_title=languages%20graph" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alhumsiabdo&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph" /> <br>
+</div>
+
+#### Popular Projects
+
+<a href="https://github.com/alhumsiabdo/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alhumsiabdo&repo=laravel-vue&theme=dracula" />
+</a>    
+<a href="https://github.com/alhumsiabdo/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alhumsiabdo&repo=vue-todo&theme=dracula" />
+</a>
+
+#### Trophies
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alhumsiabdo&row=1&column=10&theme=dracula&column=100&no-frame=false&no-bg=false" alt="Alhumsi"></a></p>
+
+###
+#### Profile Visitor
+<p align="center"><img src="https://profile-counter.glitch.me/alhumsiabdo/count.svg" alt="visitor badge" width="50%"></p>
