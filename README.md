@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Abdullah Alhumsi 👋
 
-<!--
-**Alhumsiabdo/Alhumsiabdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer specializing in PHP & Laravel — infrastructure, 
+performance optimization, and developer tooling.
 
-Here are some ideas to get you started:
+Currently building **CladCut** @ DomApp.
+Author of **[laravel-error-notifier]([link](https://packagist.org/packages/alhumsi/laravel-error-notifier))** — actionable error 
+alerts for Telegram, Slack & Discord.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📍 Damascus, Syria — actively relocating to Europe  
+🌍 Open to visa sponsorship: 🇩🇪 🇳🇱 🇵🇹 🇵🇱 🇪🇸  
+🔧 PHP 8.4 · Laravel 13 · MySQL · Redis · Docker · GitHub Actions  
+📄 [Resume](https://abdullah.alhumsi.me/resume/) · 
+💼 [LinkedIn]([your-link](https://www.linkedin.com/in/abdullah-alhumsi-979387284/))  
+📫 abdullah.m.alhumsi@gmail.com
