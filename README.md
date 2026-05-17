@@ -15,5 +15,3 @@ alerts for Telegram, Slack & Discord.
 📄 [Resume](https://abdullah.alhumsi.me/resume/) · 
 💼 [LinkedIn](https://www.linkedin.com/in/abdullah-alhumsi-979387284/)  
 📧 abdullah.m.alhumsi@gmail.com
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alhumsiabdo&theme=github_dark)
